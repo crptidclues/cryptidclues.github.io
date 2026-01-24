@@ -39,9 +39,9 @@
 	(function () {
 		var settings = {
 			images: {
-				"../images/hidden-sky-stars/bg01.jpg": "center",
-				"../images/hidden-sky-stars/bg02.jpg": "center",
-				"../images/hidden-sky-stars/bg03.jpg": "center"
+				"../../images/hidden-sky-stars/bg01.jpg": "center",
+				"../../images/hidden-sky-stars/bg02.jpg": "center",
+				"../../images/hidden-sky-stars/bg03.jpg": "center"
 			},
 			delay: 6000
 		};
