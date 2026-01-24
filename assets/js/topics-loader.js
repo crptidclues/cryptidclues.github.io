@@ -4,7 +4,8 @@
 	if (!topicList) return;
 
 	const packageIndex = [
-		'packages/hidden-sky-stars/manifest.json'
+		'packages/hidden-sky-stars/manifest.json',
+		'packages/seen-sky-stars/manifest.json'
 		// future packages get added here OR auto-generated later
 	];
 
